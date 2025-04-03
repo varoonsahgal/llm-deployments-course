@@ -1,7 +1,7 @@
 
 # ✅ Follow-up Exercise: Improving Fine-Tuning and Measuring Impact
 
-"""
+
 🚀 Now that you've completed a basic fine-tuning pass, let's expand and evaluate how much the model improves.
 
 ### 📚 Instructions:
@@ -54,4 +54,3 @@ test_sentences = [
 You can even make a chart or table if you're feeling adventurous!
 
 Good luck — and remember: the more data you give your model, the smarter it gets. 😉
-"""
